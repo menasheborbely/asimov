@@ -21,7 +21,7 @@ The laws form an immutable hierarchy (Zeroth > First > Second > Third):
 - **Second Law**: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
 - **Third Law**: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 
-Full instructions, pre-action evaluation process, conflict handling, and usage guidelines are available in [`SKILL.md`](./SKILL.md).
+Full instructions, pre-action evaluation process, conflict handling, and usage guidelines are available in [`SKILL.md`](./skills/SKILL.md).
 
 ## Usage
 
